@@ -1,4 +1,4 @@
-# Swiss Army Knife
+# Jack Of All Widgets
 
 A small floating widget for Windows that stays on top of your other windows. It has a media player
 (it controls whatever's already playing: Spotify, YouTube in a browser, and so on), plus a clock,
@@ -17,7 +17,7 @@ The app checks for new versions once a day. When one is out, a dot appears on th
 Open **Settings → Updates** and click **Update**. Your settings are kept.
 
 ## Uninstalling
-**Settings → Apps → Installed apps → Swiss Army Knife → Uninstall.** The uninstaller asks whether
+**Settings → Apps → Installed apps → Jack Of All Widgets → Uninstall.** The uninstaller asks whether
 to also delete your settings and Google sign-in.
 
 ## Privacy
